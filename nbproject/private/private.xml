@@ -3,6 +3,18 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/alexk/Documents/GitHub/Brick_Breaker_Game/src/gr/alex/brickbreaker/ShuffleBrick.java</file>
+            <file>file:/C:/Users/alexk/Documents/GitHub/Brick_Breaker_Game/src/gr/alex/brickbreaker/SimpleBrick.java</file>
+            <file>file:/C:/Users/alexk/Documents/GitHub/Brick_Breaker_Game/src/gr/alex/brickbreaker/NewLineBrick.java</file>
+            <file>file:/C:/Users/alexk/Documents/GitHub/Brick_Breaker_Game/src/gr/alex/brickbreaker/TransparentBrick.java</file>
+            <file>file:/C:/Users/alexk/Documents/GitHub/Brick_Breaker_Game/src/gr/alex/brickbreaker/ColorbombBrick.java</file>
+            <file>file:/C:/Users/alexk/Documents/GitHub/Brick_Breaker_Game/src/gr/alex/brickbreaker/BrickGrid.java</file>
+            <file>file:/C:/Users/alexk/Documents/GitHub/Brick_Breaker_Game/src/gr/alex/brickbreaker/GameFrame.java</file>
+            <file>file:/C:/Users/alexk/Documents/GitHub/Brick_Breaker_Game/src/gr/alex/brickbreaker/Brick.java</file>
+            <file>file:/C:/Users/alexk/Documents/GitHub/Brick_Breaker_Game/src/gr/alex/brickbreaker/JokerBrick.java</file>
+            <file>file:/C:/Users/alexk/Documents/GitHub/Brick_Breaker_Game/src/gr/alex/brickbreaker/BrickBreakerGame.java</file>
+            <file>file:/C:/Users/alexk/Documents/GitHub/Brick_Breaker_Game/src/gr/alex/brickbreaker/BombBrick.java</file>
+        </group>
     </open-files>
 </project-private>
