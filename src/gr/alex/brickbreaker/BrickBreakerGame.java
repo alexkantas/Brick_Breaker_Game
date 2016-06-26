@@ -1,6 +1,23 @@
+/*
+ * Copyright (C) 2016 Alexandros Kantas 
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
 package gr.alex.brickbreaker;
 
 import java.awt.BorderLayout;
+import javax.swing.JFrame;
 import javax.swing.JPanel;
 
 /**
@@ -20,8 +37,9 @@ public class BrickBreakerGame extends JPanel {
     private BorderLayout borderLayout = new BorderLayout();
 
     public BrickBreakerGame() {
-        this(null);
         gameFrameExist = false;
+        setLayout(borderLayout);
+        increaseLevel();
     }
 
     public BrickBreakerGame(GameFrame gameFrame) {
@@ -108,6 +126,10 @@ public class BrickBreakerGame extends JPanel {
     }
 
     public static void main(String[] args) {
-        GameFrame gameFrame = new GameFrame();
+       GameFrame gameFrame = new GameFrame();
+//        JFrame j = new JFrame();
+//        j.add(new BrickBreakerGame());
+//        j.setVisible(true);
+//        j.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
     }
 }
