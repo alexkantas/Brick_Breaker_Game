@@ -1,9 +1,12 @@
-Brick Breaker Game in Java
-===
-Brick Breaker Game ( commonly referred as Bubble Breaker) developed with Java Swing
----
+# Brick Breaker Game in Java
 
-###This game is buid with Swing GUI elements
+#### Brick Breaker Game developed with Java Swing
+
+_The game is commonly referred as Bubble Breaker_
+
+## Features
+
+* This game is buid with Swing GUI elements
 * "Bricks" are JButtons
 * Everything in panel updates instantly
 * The programm make use of recursive funtions to check near "Bricks" 
